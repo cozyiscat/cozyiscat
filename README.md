@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **cozyiscat/cozyiscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=COZY%20cat&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;)](https://git.io/typing-svg)
